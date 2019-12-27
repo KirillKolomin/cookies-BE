@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/KirillKolomin/cookies-BE/issues"
   },
-  "homepage": "https://github.com/KirillKolomin/cookies-BE#readme"
+  "homepage": "https://github.com/KirillKolomin/cookies-BE#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

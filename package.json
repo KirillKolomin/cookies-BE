@@ -1,0 +1,22 @@
+{
+  "name": "cookies-be",
+  "version": "1.0.0",
+  "description": "be of cookies work\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D'\u001b[C\u001b[C\u001b[D\u001b[D \u001b[2~work \u001b[2~sad\u001b[Dasd\u001b[D\u001b[D\u001b[D\u001b[Dasdlearning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KirillKolomin/cookies-BE.git"
+  },
+  "keywords": [
+    "cookies"
+  ],
+  "author": "Kirill Kolomin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirillKolomin/cookies-BE/issues"
+  },
+  "homepage": "https://github.com/KirillKolomin/cookies-BE#readme"
+}
